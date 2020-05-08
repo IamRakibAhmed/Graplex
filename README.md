@@ -18,5 +18,5 @@ Graplex can search into a websiite to find the inbound and outbound links and af
 #### Back-End:
 1. Python.
 
-### Here is a image of the visualization given below:
+### Here is an image of the visualization given below:
 ![4](https://user-images.githubusercontent.com/30636496/81456085-0195f600-91b3-11ea-8094-b0f97ed33fdf.png)
