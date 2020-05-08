@@ -1,13 +1,14 @@
 # Graplex
 ## A Search Engine Concept.
 
-Graplex can search into a websiite to find the inbound and outbound links and after that it can rank the webpages by depending on the strongly connected webpages. And finally it can visualize the connected webpage model using the d3 JavaScript Library. The working mechanism or the steps are below:
+Graplex can search into a websiite to find the inbound and outbound links and after that it can rank the webpages by depending on the strongly connected webpages. And finally it can visualize the connected webpage model using the d3 JavaScript Library. The Working Mechanism, Features and the Steps are below:
 
 1. Collecting webpages from a website.
 2. Rank the webpages by using Page Rank Algorithm.
 3. Dump the webpages.
 4. Selecting the number of webpages to visualize.
 5. Visualize the model.
+6. Reset the Page Ranks. (Optional)
 
 ### Language Used:
 #### Front-End:
