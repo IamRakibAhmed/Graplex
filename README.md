@@ -12,12 +12,16 @@ Graplex can search into a websiite to find the inbound and outbound links and af
 
 ### Language Used:
 #### Front-End:
-1. HTML.
-2. CSS.
-3. JavaScript.
-
+<ul>
+  <li>HTML.</li>
+  <li>CSS.</li>
+  <li>JavaScript.</li>
+</ul>
+  
 #### Back-End:
-1. Python.
+<ul>
+  <li>Python.</li>
+</ul>
 
 ### Here is an image of the visualization given below:
 ![4](https://user-images.githubusercontent.com/30636496/81456085-0195f600-91b3-11ea-8094-b0f97ed33fdf.png)
