@@ -5,7 +5,7 @@ Graplex can search into a website to find it's inbound and outbound hyperlinks a
 
 <ol>
   <li>Collecting webpages from a website.</li>
-  <li>Rank the webpages by using the Page Rank Algorithm.</li>
+  <li>Rank the webpages by using the PageRank Algorithm.</li>
   <li>Dump the webpages.</li>
   <li>Selecting the number of webpages to visualize.</li>
   <li>Visualize the model.</li>
